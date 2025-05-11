@@ -2,16 +2,6 @@
 
 A comprehensive collection of AWS resources, learning materials, and practice questions to help you master AWS services and prepare for certifications.
 
-## 📚 Repository Structure
-
-```
-aws-resource-hub/
-├── docs/                    # Documentation and guides
-├── practice-questions/      # AWS practice questions and answers
-├── learning-materials/      # Study materials and tutorials
-├── code-examples/          # Sample code and implementations
-└── web-app/                # Future web application for interactive learning
-```
 
 ## 🎯 Purpose
 
